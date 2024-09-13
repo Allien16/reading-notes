@@ -6,8 +6,9 @@ En esta clase vamos hablar sobre 3 puntos:
 2. Markdown
 3. Web Publising
 
-##Alumnos 
--Angel
--Gianmarco
--Jean
--Donayre
+## Alumnos
+
+- Angel
+- Gianmarco
+- Jean
+- Donayre
