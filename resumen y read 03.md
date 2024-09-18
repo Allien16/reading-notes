@@ -1,3 +1,10 @@
+## Clase 1 Enter:
+En la clase 1 creamos nuestra cuenta Github y aprendimos a usar MarkDown.
+## Clase 2 Enter:
+En la clase 2 instalamos todas las herramientas necesarias para iniciar en el mundo de la programacion
+
+## Preguntas Clase 3:
+
 ### **1. ¿Qué es el control de versiones?**
 
 Es un sistema que nos permite revisar varias versiones de un archivo. Por ejemplo, si estamos trabajando en un proyecto con compañeros podemos colaborar de forma que nos podamos ayudar a resolver cualquier inconveniente en caso necesitemos ayuda con el código. Asimismo, facilita la corrección de errores para un proyecto, ya que hace seguimiento de todo el código que programemos.
